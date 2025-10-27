@@ -1,17 +1,17 @@
-export default function ArquitecturaPage() {
+export default function AdministracionEmpresasTuristicasPage() {
   return (
     <div className="pt-8 pb-16">
         <div className="max-w-5xl mx-auto px-6">
-        <h1 className="text-3xl font-bold text-primary mb-4">Licenciatura en Arquitectura</h1>
-        <p className="text-gray-600 mb-6">Forma profesionales capaces de diseñar, planificar y supervisar la construcción de edificaciones, integrando aspectos técnicos, estéticos y funcionales.</p>
+        <h1 className="text-3xl font-bold text-primary mb-4">Licenciatura en Administración de Empresas Turísticas</h1>
+        <p className="text-gray-600 mb-6">Forma profesionales capaces de gestionar y dirigir empresas del sector turístico, promoviendo el desarrollo sostenible y la innovación en la industria.</p>
         <div className="grid md:grid-cols-3 gap-6">
           <div className="p-6 bg-white rounded-lg shadow">
             <h3 className="font-semibold mb-2">Plan de estudios</h3>    
             <ul className="text-sm text-gray-600 list-disc ml-5">
-                <li>Desarrollo de software</li>
-                <li>Sistemas de información</li>
-                <li>Redes y telecomunicaciones</li>
-                <li>Administración de bases de datos</li>
+              <li>Gestión de empresas turísticas</li>
+                <li>Marketing turístico</li>
+                <li>Desarrollo sostenible</li>
+                <li>Turismo internacional</li>
             </ul>
           </div>
             <div className="p-6 bg-white rounded-lg shadow">

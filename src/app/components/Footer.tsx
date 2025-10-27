@@ -5,8 +5,8 @@ export default function Footer() {
     <footer className="bg-lightGray mt-16">
       <div className="max-w-7xl mx-auto px-6 py-10 flex flex-col md:flex-row justify-between items-start gap-6">
         <div>
-          <img src="/logo.png" alt="Logo" className="h-10 mb-3" />
-          <p className="text-sm text-gray-600">Institución educativa — Kínder a Licenciatura</p>
+          <img src="../logo/logo-celc.png" alt="Logo" className="h-10 mb-3" />
+          <p className="text-sm text-gray-600">Centro de Estudios Lerdo Contemporáneo</p>
         </div>
 
         <div className="flex gap-8">
