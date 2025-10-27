@@ -7,7 +7,7 @@ export default function LevelHub() {
     { title: "Secundaria", href: "/niveles/secundaria", excerpt: "Fundamentos académicos y valores." },
     { title: "Preparatoria", href: "/niveles/preparatoria", excerpt: "Formación integral y preparación universitaria." },
     { title: "Licenciatura", href: "/niveles/licenciatura", excerpt: "Carreras profesionales con enfoque práctico." },
-    { title: "Maestrias", href: "/niveles/maestrias", excerpt: "Especializacion para profesionistas." },
+    { title: "Maestrias", href: "/niveles/maestria", excerpt: "Especializacion para profesionistas." },
   ];
 
   return (
